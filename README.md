@@ -27,9 +27,7 @@ This system follows best practices in database normalization and enforces data i
    SOURCE /path/to/student_records.sql;
 
 3. Use the Database
-sql
-   USE StudentRecords;
-   
+USE StudentRecords;
  
 🧠 ERD Diagram
 
