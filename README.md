@@ -21,28 +21,17 @@ This system follows best practices in database normalization and enforces data i
    cd student-records-db
 
 2. Import the SQL File into MySQL
+   -Open your MySQL client or phpMyAdmin.
+   -Run the student_records.sql script provided in the repo:
 
-Open your MySQL client or phpMyAdmin.
-
-Run the student_records.sql script provided in the repo:
-
-sql
-Copy
-Edit
-SOURCE /path/to/student_records.sql;
+   SOURCE /path/to/student_records.sql;
 
 3. Use the Database
-
-sql
-Copy
-Edit
-USE StudentRecords;
-
+   USE StudentRecords;
+   
+ 
 🧠 ERD Diagram
-Here’s a screenshot of the Entity Relationship Diagram (ERD):
 
-
-Or view it online: View ERD
 
 
 
