@@ -31,6 +31,9 @@ USE StudentRecords;
  
 🧠 ERD Diagram
 
+<img width="331" alt="Screenshot 2025-05-07 232028" src="https://github.com/user-attachments/assets/4fe0b0b3-2de6-4377-becd-b58e4fd3a7d3" />
+
+
 
 
 
