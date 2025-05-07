@@ -17,7 +17,7 @@ This system follows best practices in database normalization and enforces data i
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/kgaugelo943/student-records-db.git
+   git clone https://github.com/kgaugelo943/Database-week8--Student-Records.git
    cd student-records-db
 
 2. Import the SQL File into MySQL
